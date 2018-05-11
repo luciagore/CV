@@ -5,13 +5,14 @@ I am a diligent and ambitious problem solver, currently studying at Makers Acade
 ## Skills
 
 #### Sales
-expand
+ - High achieving Sales Consultant at Original Travel  
 
 #### Marketing
-Marketing - expand
+ - Marketing Assistant at Nigel Archer Safaris
 
-#### Languages - French and Spanish proficient 
-expand
+#### Languages
+Competant in French and Spanish
+Basic understanding of Mandarin
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -36,12 +37,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - BA Hons 2:1 in Anthropology 
 - Modules in French and History
 
+#### Oundle School (September 2006 - July 2011)
+ - A levels: History, English, French, Spanish
+
 ## Experience
 
 **Original Travel (February 2016 - April 2018)
 Sales Consultant
+  - Responsible and enthusiastic team member
+  - Direct regular contact with high net worth individuals from the planning stages until they returned from their holiday
+  - Maintained good working relationship with suppliers and ground handlers around the world
+  - In 2017 I personally was responsible for the sale of £800,000.00 worth of holidays - and was also in the top 5 sales  consultants in terms of volume in the company
+  
 **Nigel Archer Safaris (September 2015 - January 2016)
-Assitant Camp Manager and Marketing Assitant
+ - Assitant Camp Manager and Marketing Assitant
+ 
 **AlliA Brussels (September 2011 - March 2012)
-Intern Scholarship
+ - Intern Scholarship
 
