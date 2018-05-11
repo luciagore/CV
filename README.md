@@ -41,16 +41,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Original Travel (February 2016 - April 2018)
+####Original Travel (February 2016 - April 2018)
 Sales Consultant
   - Responsible and enthusiastic team member
   - Direct regular contact with high net worth individuals from the planning stages until they returned from their holiday
   - Maintained good working relationship with suppliers and ground handlers around the world
   - In 2017 I personally was responsible for the sale of £800,000.00 worth of holidays - and was also in the top 5 sales  consultants in terms of volume in the company
   
-**Nigel Archer Safaris (September 2015 - January 2016)
+####Nigel Archer Safaris (September 2015 - January 2016)
  - Assitant Camp Manager and Marketing Assitant
  
-**AlliA Brussels (September 2011 - March 2012)
+####AlliA Brussels (September 2011 - March 2012)
  - Intern Scholarship
 
+## Interests
+
+I enjoy travel, photography and videography - I find these all go very well together! I am an avid reader, I love to go to the theatre (or watch movies) and music is also something that I really enjoy.
