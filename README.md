@@ -12,7 +12,6 @@ I am a diligent and ambitious problem solver, currently studying at Makers Acade
 
 #### Languages
 Competant in French and Spanish
-Basic understanding of Mandarin
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
