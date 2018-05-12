@@ -56,7 +56,7 @@ Sales Consultant
   - Enthusiastic team member
   
 #### Nigel Archer Safaris (September 2015 - January 2016)
- - Assitant Camp Manager and Marketing Assitant
+Assitant Camp Manager and Marketing Assitant
   - Responsible for the guests wellbeing and safety in an unfenced camp in the Maasai Mara
   - Responsibile for the smooth running of life in camp and managing a team of household staff
  - Sole Responsibility for the social media and marketing channels for the camp. 
