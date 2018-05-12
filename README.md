@@ -6,11 +6,6 @@ Prior to Makers, I spent 3 years in Sales and Marketing roles, specifically focu
 
 
 ## Skills
-
-#### General
- - Detail-oriented
- - Loyal and Discreet (able to maintain confidentiality)
- - Negotiation skills 
  
 #### Sales
 
@@ -19,6 +14,10 @@ I am results driven and thrive by using my initiative, and working under pressur
 #### Marketing
 
 I have spent time focussed on the marketing techniques for both Original Travel and Nigel Archer Safaris by implementing Social Media channels, targeting and analysing consumer demographics, as well as creating brochures and and online content. I have arranged and attended events in which to promote a product and service (Naibor Safari Camp).
+
+#### Management
+
+I spent several months working full-time at Naibor Safari Camp, assisting the Camp Manager with all aspects of the daily running of camp, including staff management. This would ensure the best possible experience for both staff and guests and the safety of all those involved.
 
 #### Languages
 Competant in French and Spanish
