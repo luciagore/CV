@@ -2,30 +2,26 @@
 
 I am a diligent and ambitious student at Makers Academy in London, Europes leading fully immersive full-time developer Bootcamp, with the intention of starting a career as a developer. I am looking for a new challenge in which I can implement my creative and analytical skills as well as learn and build confidence in programming and code. 
 
-Prior to Makers, I spent 3 years in Sales and Marketing roles, specifically focussed on Luxury Travel, in which I was fortunate to spend time both in London and Kenya. I decided that I wanted to become a developer because of the unbounded opportunities that it offers. Ideally I would be looking for a role in which I could build upon my passions, namely design, travel and entertainment - improving on the skills I've learnt at Makers Academy - whilst working on a variety of relevant projects. I am thorough and precise with a keen interest in technology, mobile applications, artificial intelligence and user experience. 
-
-
-
-My working life has almost entirely been based around client facing roles and the service industry and therefore I have an indepth understanding of the attention to detail and responsibility required. I have forged a love of conservation in particular, given the exposure I've had to products dependent on conservation. 
+Prior to Makers, I spent 3 years in Sales and Marketing roles, specifically focussed on Luxury Travel, in which I was fortunate to spend time both in London and Kenya. I decided that I wanted to become a developer because of the unbounded opportunities that it offers. Ideally I would be looking for a role in which I could build upon my passions, namely design, travel and entertainment - improving on the skills I've learnt at Makers Academy - whilst working on a variety of relevant projects. I am thorough and precise with a keen interest in technology, mobile applications, artificial intelligence and user experience.  
 
 
 ## Skills
 
+#### General
+ - Detail-oriented
+ - Loyal and Discreet (able to maintain confidentiality)
+ - Negotiation skills 
+ 
 #### Sales
- - High achieving Sales Consultant at Original Travel  
+
+I am results driven and thrive by using my initiative, and working under pressure. I enjoy the sales process and succeed in building and maintaining relationships with suppliers and clients alike. I have excellent written and verbal communication skills and have conducted presentations and webimars, as well as written articles and blogs. I spent over two years working in the Sales team at Original Travel, in which I was recognised as one of the most successful Sales Consultants, arranging private and corporate itineraries for clients around the world. Almost all my previous work has been in client facing roles, and in some cases included bidding for projects against others at the company or in other companies. I have strong negotiating skills and a good attention to detail.
 
 #### Marketing
- - Marketing Assistant at Nigel Archer Safaris
+
+I have spent time focussed on the marketing techniques for both Original Travel and Nigel Archer Safaris by implementing Social Media channels, targeting and analysing consumer demographics, as well as creating brochures and and online content. I have arranged and attended events in which to promote a product and service (Naibor Safari Camp).
 
 #### Languages
 Competant in French and Spanish
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
