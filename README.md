@@ -1,4 +1,4 @@
-# Lucia Gore (gore.helena@gmail.com)<br>
+# Lucia Gore (lucy.gore@hotmail.co.uk)<br>
 <p align="center">
 <a href="https://medium.com/@gore.helena">
 <img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
