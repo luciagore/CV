@@ -35,8 +35,6 @@ Makers has taught me to appreciate and strive for the best quality, test driven,
 
 I consider myself a highly adaptive individual able to adjust based on the situation.
 
-Once I arrived to start my placement year in China with Goldwind, I found out during my onboarding process that I wasn't suited for the role they needed. I asked my superior if there was a purpose I _could_ fill in the department. Noticing a communication issue with a different member of staff and an international intern, I inquired if it would be appropriate for me to take care of the English speaking staff and escalate if necessary. It turned out to be a fruitful endeavour, creating a role for myself where I could use the skills I had and providing relief for an understaffed IT team.
-
 ### Teamwork / Mediation / Collaboration
 
 Having spent most of my working life before Makers in a team environment, I know and have experienced that all teams have highs and lows. I feel it is paramount to learn as a team and create an inclusive and enthusiastic environment, to achieve the best possible results.
