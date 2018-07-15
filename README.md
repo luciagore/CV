@@ -7,7 +7,7 @@
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
 
-[Background](#background) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Status](#status) | [Interests](#interests)
+[Background](#background) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | | [Interests](#interests)
 
 I am a diligent and ambitious student at [Makers](https://makers.tech/) in London, Europe's leading fully immersive full-time developer Bootcamp, with the intention of starting a career as a developer. I am looking for a new challenge in which I can implement my creative and analytical skills as well as learn and build confidence in programming and code. 
 
