@@ -49,16 +49,16 @@ This was crucial at my role in Sales, and I have since honed in on this skill to
 
 # Experience
 
-**Makersx** (London, England): May 2018 - Present  
+**Makers** (London, England): May 2018 - Present
 *Aspiring Software Engineer*
 
-**Original Travel** (London, England): Jan 2016 - Apr 2018  
+**Original Travel** (London, England): Jan 2016 - Apr 2018
 *Sales Consultant*
 
 **Nigel Archer Safaris** (Nairobi, Kenya): Aug 2015 - Dec 2015
 *Assistant Camp Manger (Aug-Nov), Marketing Assistant (Nov-Dec)*
 
-**AlliA Brussels (September 2011 - March 2012)**
+**AlliA Brussels** (September 2011 - March 2012)
 *Intern Scholarship*
 
 # Education
