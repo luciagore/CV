@@ -1,72 +1,96 @@
-## Lucia Gore
+# Lucia Gore (gore.helena@gmail.com)<br>
+<p align="center">
+<a href="https://medium.com/@gore.helena">
+<img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
 
-I am a diligent and ambitious student at Makers Academy in London, Europe's leading fully immersive full-time developer Bootcamp, with the intention of starting a career as a developer. I am looking for a new challenge in which I can implement my creative and analytical skills as well as learn and build confidence in programming and code. 
+<a href="https://www.linkedin.com/in/lucia-gore-23b5a8a5/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
-Prior to Makers, I spent 3 years in Sales and Marketing roles, specifically focussed on Luxury Travel, in which I was fortunate to spend time both in London and Kenya. I decided that I wanted to become a developer because of the opportunities that it offers. Ideally I would be looking for a role in which I could build upon my passions, namely design, travel and entertainment - improving on the skills I've learnt at Makers Academy - whilst working on a variety of relevant projects. I am thorough and precise with a keen interest in technology, mobile applications, artificial intelligence and user experience.  
+
+[Background](#background) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Status](#status) | [Interests](#interests)
+
+I am a diligent and ambitious student at [Makers](https://makers.tech/) in London, Europe's leading fully immersive full-time developer Bootcamp, with the intention of starting a career as a developer. I am looking for a new challenge in which I can implement my creative and analytical skills as well as learn and build confidence in programming and code. 
+
+# Background
+Prior to Makers, I spent 3 years in Sales and Marketing roles, specifically focussed on Luxury Travel, in which I was fortunate to spend time both in London and Kenya. I craved a more flexible lifestyle, and one in which I could do more to help others and make a positive contribution to the world. For the last year, I have really pursued a growing interest in technology, and the opportunities that it offers. I believe that it provides the tools to do social good, protect the environment in which we live and enhance the lives of individuals. I have a wide range of skills and interests that not only inform my open-minded attitude, but make me uniquely capable of producing great results in the tech space because I can conceptualise the journey from raw code to final user, and the implications of the technical and design choices along the way.
+
+Ideally I would be looking for a role in which I could build upon my passions, namely design, travel and entertainment - improving on the skills I've learnt at Makers - whilst working on a variety of relevant projects.  
 
 
-## Skills
- 
-#### Sales
+# Projects
+| Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
+|--|--|--|--|--|
+| [Acebook - Off the Rails](https://github.com/luciagore/acebook-off-the-rails) | Working in a team of 5 - we created a website to replicate Facebook. We were given a Trello Board of Tickets outlining the features we needed to implement and aimed to improve not just our coding ability but our understanding of how to work successfully and efficiently as a team.  | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), PostgreSQL,  Heroku | RSpec, Capybara, Travis |
+| [MakersBNB](https://github.com/luciagore/makersbnb) | Four team members worked together in the first of the group projects to come up with a fresh take on AirBnb. | 1 week | Ruby, Javascript, JQuery, HTML/CSS (Bootstrap)| Jasmine |
+| [Bowling Challenge](https://github.com/luciagore/bowling-challenge) | Working individually to create a bowling scorecard for a full game of ten-pin bowling | 2 weekends |HTML/CSS (Bootstrap), JavaScript | Jasmine  |
+| [Thermostat](https://github.com/luciagore/Thermostat) | Working individually to create my first project in Javascript (as well as learning the language) - making a Thermostat! | 1 week |HTML/CSS (Bootstrap), JavaScript | Jasmine  |
 
-I am results driven and thrive by working under pressure. I enjoy the sales process and succeed in building and maintaining relationships with suppliers and clients alike. I have excellent written and verbal communication skills and have conducted presentations and webimars, as well as written articles and blogs. I spent over two years working in the Sales team at Original Travel, in which I was recognised as one of the most successful Sales Consultants, arranging private and corporate itineraries for clients around the world. Almost all my previous work has been in client facing roles, and in some cases included bidding for projects against others at the company or in other companies. I have initiative, strong negotiating skills and a good attention to detail.
+# Skills
 
-#### Marketing
+### Writing Test-Driven, Clean Code
 
-I have spent time focussed on the marketing techniques for both Original Travel and Nigel Archer Safaris by implementing Social Media channels, targeting and analysing consumer demographics, as well as creating brochures and online content. I have arranged and attended events in which to promote a product and service (Naibor Safari Camp).
+Makers has taught me to appreciate and strive for the best quality, test driven, clean code. I have taken on board, and implemented the programming principles such as SOLID and DRY, as well as practicing usage of XP Values to make sure that every code base I work on, is easily understood by myself, other members of the group, as well as anyone else that might be interested! TDD has helped me enormously not just to prevent brittle code, but also to better understand what I am trying to achieve.
 
-#### Management
+### Adaptability
 
-I spent several months working full-time at Naibor Safari Camp, assisting the Camp Manager with all aspects of the daily running of camp, including staff management. This would ensure the best possible experience for both staff and guests and the safety of all those involved.
+I consider myself a highly adaptive individual able to adjust based on the situation.
 
-#### Languages
-Competant in French and Spanish
+Once I arrived to start my placement year in China with Goldwind, I found out during my onboarding process that I wasn't suited for the role they needed. I asked my superior if there was a purpose I _could_ fill in the department. Noticing a communication issue with a different member of staff and an international intern, I inquired if it would be appropriate for me to take care of the English speaking staff and escalate if necessary. It turned out to be a fruitful endeavour, creating a role for myself where I could use the skills I had and providing relief for an understaffed IT team.
 
-## Education
+### Teamwork / Mediation / Collaboration
 
-#### Makers Academy (April 2018 - August 2018)
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+Having spent most of my working life before Makers in a team environment, I know and have experienced that all teams have highs and lows. I feel it is paramount to learn as a team and create an inclusive and enthusiastic environment, to achieve the best possible results.
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+I learnt this in particular in my first group project (recreating our rendition of AirBnb), where there were various clashes, and we realised early on that the most imporant thing to do would be to align our individual goals in order to better work together as a team. Running daily standups and retros, I ensured that our group kept our eyes on the objectives of the day which played a major part in our eventual good group cohesion.
 
-#### Exeter University (September 2012 - June 2015)
-- BA Hons 2:1 in Anthropology 
+### Attention to detail
+
+This was crucial at my role in Sales, and I have since honed in on this skill to try to achieve high quality and error free code wherever possible.
+
+# Experience
+
+**Makersx** (London, England): May 2018 - Present  
+*Aspiring Software Engineer*
+
+**Original Travel** (London, England): Jan 2016 - Apr 2018  
+*Sales Consultant*
+
+**Nigel Archer Safaris** (Nairobi, Kenya): Aug 2015 - Dec 2015
+*Assistant Camp Manger (Aug-Nov), Marketing Assistant (Nov-Dec)*
+
+**AlliA Brussels (September 2011 - March 2012)**
+*Intern Scholarship*
+
+# Education
+
+#### Makers (May 2018 - Aug 2018)
+
+- A neverending curiousity for coding and new technologies
+- Always aiming to sharpen my toolset & craft well-written, readable and clean code
+- Learning, honing and maintaining best practices for coding (e.g. TDD, XP Values, Agile approach)
+    
+    - Languages: Ruby, JavaScript (and jQuery), HTML/CSS
+    - Web Frameworks: Sinatra, Ruby on Rails, node.js
+    - Databases: PostgreSQL
+    - Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine
+    - CI/CD: Travis CI, Heroku
+
+#### University of Exeter (2012 - 2015)
+
+- BA (Hons) Anthropology — 2:1 
 - Modules in French and History
 
-#### Oundle School (September 2006 - July 2011)
+#### Oundle School (2006 - 2011)
+
  - A levels: History, English, French, Spanish
 
-## Experience
+# Nationality
 
-#### Original Travel (February 2016 - April 2018)
-Sales Consultant
-  - Sole responsibility for large volume of high net worth clients 
-   - Created tailor-made itineraries to suit personal preferences
-  - Maintained good working relationship with suppliers and ground handlers around the world
-  - Attended and arranged networking events
-  - Consistently met high expectations
-  - In 2017 I was personally responsible for the sale of £800,000.00 worth of holidays - and was also in the top 5 sales  consultants in terms of volume in the company with over 80 bookings
-  - Wrote Travel Blogs and Articles
-  - Contributed to Social Media Channels including Twitter, Instagram and Facebook on behalf of the company
-  - Enthusiastic team member
-  
-#### Nigel Archer Safaris (September 2015 - January 2016)
-Assitant Camp Manager and Marketing Assitant
-  - Responsible for the guests wellbeing and maintaining safety standards in an unfenced camp in the Maasai Mara
-  - Responsibile for the smooth running of life in camp and managing a team of household staff
- - Sole Responsibility for the social media and marketing channels for the camp. 
- - Close working relationships with local conservationists
- 
-#### AlliA Brussels (September 2011 - March 2012)
- - Intern Scholarship
+British Citizen
 
-## Interests
+# Interests
 
-I enjoy travel, photography and videography - I find these all go very well together and I try to document my own adventures in the way of scrapbooks, short films and stories.
-
-I am an avid reader, I enjoy the theatre, (drama and musicals) and I also have a huge appreciation for film - both animation and live action. I play the piano and love learning new scores. 
+* I enjoy travel, photography and videography - I find these all go very well together and I try to document my own adventures in the way of scrapbooks, short films and stories.
+* I am an avid reader, I enjoy the theatre, (drama and musicals) and I also have a huge appreciation for film. I play the piano and love learning new scores. 
+* Learning languages - I have found I enjoy the process of learning new languages - besides those I learnt at school - and strive to continue doing so when time allows with a focus on Italian in my spare time.
+* Yoga - This year I have dedicated time to yoga and have found that it has really improved both my physical and mental wellbeing
