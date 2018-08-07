@@ -9,7 +9,7 @@
 
 [Background](#background) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | | [Interests](#interests)
 
-I am a diligent and ambitious student at [Makers](https://makers.tech/) in London, Europe's leading fully immersive full-time developer Bootcamp, with the intention of starting a career as a developer. I am looking for a new challenge in which I can implement my creative and analytical skills as well as learn and build confidence in programming and code. 
+I have just finished a fully immersive, full-time developer Bootcamp at [Makers](https://makers.tech/) in London, with the intention of starting a new career as a developer. I have really enjoyed the learning process and the challenges I've faced throughout the course, and I am looking for an opportunity to implement my creative and analytical skills as well as learn and build confidence in programming and code. 
 
 # Background
 After graduating from Exeter University in 2015, I spent 3 years in Sales and Marketing roles, specifically focussed on Luxury Travel, in which I was fortunate to spend time both in London and Kenya. I craved a more flexible lifestyle, and one in which I could do more to help others and make a more positive and meaningful contribution. For the last year, I have pursued a growing interest in technology, and the opportunities that it offers. I believe that it provides the tools to do social and environmental good as well as enhancing the lives of individuals. I have a wide range of skills and interests that not only inform my open-minded attitude, but make me uniquely capable of producing great results in the tech space because I can conceptualise the journey from raw code to final user, and the implications of the technical and design choices along the way.
@@ -21,6 +21,7 @@ Ideally I would be looking for a role in which I could build upon my passions, n
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
 | [Acebook - Off the Rails](https://github.com/luciagore/acebook-off-the-rails) | Working in a team of 5 - we created a website to replicate Facebook. We were given a Trello Board of Tickets outlining the features we needed to implement and aimed to improve not just our coding ability but our understanding of how to work successfully and efficiently as a team.  | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), PostgreSQL,  Heroku | RSpec, Capybara, Travis |
+| [Git-Jamming](https://github.com/luciagore/git-jamming) | Working in a team of 4 - we created a website that acts as a recording studio for musicians using MIDI data. We implemented four instruments, with recordings stored by the user, and the jamming session  | 2 weeks | Javascript, HTML/CSS (Bootstrap), Firebase,  Heroku | Jasmine, Cypress |
 | [MakersBNB](https://github.com/luciagore/makersbnb) | Four team members worked together in the first of the group projects to come up with a fresh take on AirBnb. | 1 week | Ruby, Javascript, JQuery, HTML/CSS (Bootstrap)| Jasmine |
 | [Bowling Challenge](https://github.com/luciagore/bowling-challenge) | Working individually to create a bowling scorecard for a full game of ten-pin bowling | 2 weekends |HTML/CSS (Bootstrap), JavaScript | Jasmine  |
 | [Thermostat](https://github.com/luciagore/Thermostat) | Working individually to create my first project in Javascript (as well as learning the language) - making a Thermostat! | 1 week |HTML/CSS (Bootstrap), JavaScript | Jasmine  |
@@ -29,11 +30,15 @@ Ideally I would be looking for a role in which I could build upon my passions, n
 
 ### Writing Test-Driven, Clean Code
 
-Makers has taught me to appreciate and strive for the best quality, test driven, clean code. I have taken on board, and implemented the programming principles such as SOLID and DRY, as well as practicing usage of XP Values to make sure that every code base I work on, is easily understood by myself, other members of the group, as well as anyone else that might be interested! TDD has helped me enormously not just to prevent brittle code, but also to better understand what I am trying to achieve.
+Makers has taught me to appreciate and strive for the best quality, test driven, clean code. I have taken on board, and implemented the programming principles such as SOLID and DRY, as well as practicing usage of XP Values to make sure that every code base I work on, is easily understood by myself, other members of the group, as well as anyone else that might be interested! TDD has helped me enormously not just to prevent brittle code, but also to better understand what I am trying to achieve. 
+
+Throughout the course I had my code reviewed by peers and coaches, I understood the importance and now looking back at some of my first projects I can see they are fully tested, well written and easy to understand and change, just as my last projects.
 
 ### Adaptability
 
-I consider myself a highly adaptive individual able to adjust based on the situation.
+I consider myself a highly adaptive individual able to adjust based on the situation. I was constantly tested whilst in Kenya, since the environment was so different to any working environment I'd experience before and have tried to translate this skill to coding.
+
+During the final projects at Makers we were asked to specify what sort of project we would like to spend 2 weeks working on - although I can read music, and thoroughly enjoy it I had not listed creating a musical product as one of my choices and yet I was assigned a project to work with music. I had never used MIDI data before, or even heard of it for that matter - but I adapted to the needs of the group and spend time and dedication learning as best I could the technologies to help us translate MIDI data through the browser to create a musical keyboard through the computer. It was a huge learning experience for me and not one I had prepared for since I didn't expect to be working with music but it was very rewarding and we were successful in our project!
 
 ### Teamwork / Mediation / Collaboration
 
@@ -44,6 +49,8 @@ I learnt this in particular in my first group project (recreating our rendition 
 ### Attention to detail
 
 This was crucial at my role in Sales, and I have since honed in on this skill to try to achieve high quality and error free code wherever possible.
+
+In our Engineering Project we came across a major bug that was delibitating for our team and our progress - we spend an afternoon all helping one another to find the source of the problem and eventually it became evident, having combed through with debugging tools we were able to find a spelling error in one the files. This experience was incredibly useful in our final projects - we were quite pushed for time towards the end of the project and so we gave extra priority to code reviews - reading carefully to spot for errors in each others code before pushing to the master branch in GitHub in order to prevent small errors falling through the net.
 
 # Experience
 
@@ -63,14 +70,14 @@ This was crucial at my role in Sales, and I have since honed in on this skill to
 
 #### Makers (May 2018 - Aug 2018)
 
-- A neverending curiousity for coding and new technologies
-- Always aiming to sharpen my toolset & craft well-written, readable and clean code
-- Learning, honing and maintaining best practices for coding (e.g. TDD, XP Values, Agile approach)
+- I've developed a neverending curiosity for coding and new technologies
+- I'm always aiming to sharpen my toolset & craft well-written, readable and clean code
+- Spent time learning, honing and maintaining best practices for coding (e.g. TDD, XP Values, Agile approach)
     
     - Languages: Ruby, JavaScript (and jQuery), HTML/CSS
     - Web Frameworks: Sinatra, Ruby on Rails, node.js
-    - Databases: PostgreSQL
-    - Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine
+    - Databases: PostgreSQL, Firebase
+    - Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Cypress
     - CI/CD: Travis CI, Heroku
 
 #### University of Exeter (2012 - 2015)
